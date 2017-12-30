@@ -3,7 +3,8 @@
 
 Tema Monokay Arduino IDE 1.8.5
 S.O Arch linux x64
- <a href="https://github.com/mathoian/ArduinoMonokayTheme/blob/master/Deepin%20Screenshot_selecionar%20%C3%83%C2%A1rea_20171230011043.png">Tema Monokay Arduino</a> 
+ <img src="monokayArduinoIDE.png" > 
+
 
 
 
