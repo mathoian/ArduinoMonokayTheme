@@ -8,7 +8,7 @@ S.O Arch linux x64
 
 
 
-O tema é um pasta contendo as imagens, arquivos e ítens necessários para compilação
+O tema é um pasta contendo as imagens, arquivos e ítens necessários para IDE
 
 Antes de trocar os arquivos é necessário checar a versão da IDE do Arduino.
 
