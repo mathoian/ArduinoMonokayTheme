@@ -31,7 +31,6 @@ Faça o Download dos arquivos
 3 - dentro da pasta acima existe uma pasta chamada lib que contém a pasta theme /usr/share/arduino/lib/theme
 
 dentro da pasta possui o arquivo theme.txt, renomei o arquivo(ex: theme_original.txt) e cole o theme.txt do download (o original
-
 é para  caso queira retornar ao estilo original)
 
 5 - dentro da pasta tmeme existe uma pasta chamada syntax que contém o arquivo default.xml /usr/share/arduino/lib/theme/syntax
