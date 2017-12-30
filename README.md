@@ -3,12 +3,12 @@
 
 Tema Monokay Arduino IDE 1.8.5
 S.O Arch linux x64
- <img src="monokayArduinoIDE.png" > 
+ <img src="monokayArduinoIDE.png" align= "center"> 
 
 
 
 
-O tema é um pasta contendo as imagens, arquivos e ítens necessários para IDE
+O tema é uma pasta contendo as imagens, arquivos e ítens necessários para IDE
 
 Antes de trocar os arquivos é necessário checar a versão da IDE do Arduino.
 
