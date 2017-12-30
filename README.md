@@ -3,7 +3,7 @@
 
 Tema Monokay Arduino IDE 1.8.5
 S.O Arch linux x64
- <div align= "center> <img src="monokayArduinoIDE.png"> </div> 
+ <div align= "center"> <img src="monokayArduinoIDE.png"> </div> 
 
 
 
